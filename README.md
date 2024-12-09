@@ -1,6 +1,6 @@
 # David Graham
 #### Computer Science Student in Pittsburgh, PA
-I am a business-minded individual with a strong interest in Machine Learning and Software Development. I blend technical proficiency with strong interpersonal skills, aiming to deliver practical solutions in dynamic environments. Passionate about utilizing technology to enhance efficiency and solve problems.
+Business-minded individual with a strong interest in Machine Learning and Software Development. Blending technical proficiency with strong interpersonal skills, aiming to deliver practical solutions in dynamic environments. Passionate about utilizing technology to enhance efficiency and solve problems.
 
 
 
